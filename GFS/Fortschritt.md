@@ -25,3 +25,5 @@
 ## **Wichtig bei diesem Thema**
 
 - **Die Schreibweise von Mealy automaten erklären**
+
+
