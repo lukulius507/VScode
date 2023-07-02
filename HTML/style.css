@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+header{
+height: 100px;
+box-shadow: 0xp 5xp 13xp 2xp #C2C2C2;
+display: flex;
+justify-content: center;
+align-items: end;
+}
+header a{
+margin-right: 16px;
+text-decoration: none;
+color: rgb(36, 185, 98);
+}
+header a:hover {
+color: rgba(36, 185, 98, 0.384);
+}
+
+.container {
+margin-top: 100px ;
+background-color: blue;
+display: flex;
+justify-content: center;
+}
+.container a {
+background-color:blueviolet ;
+color: white;
+text-decoration: none;
+padding: 10px;
+border: 5px solid black;
+}
+
+.container a:hover{
+background-color:rgb(144, 55, 226) ;
+}
